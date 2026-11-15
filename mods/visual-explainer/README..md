@@ -1,6 +1,6 @@
 # Capri Visual Explainer
 
-![A showcase of Capri's Visual Explainer mod](prewiew.png)
+![A showcase of Capri's Visual Explainer mod](preview.png)
 
 Capri's Visual Explainer turns a question into several animated, interactive windows so ideas are explained visually instead of as a plain block of text. It can show timelines, flow diagrams, graphs, geometry, mind maps, maps, tables, bars, quizzes, and more.
 
